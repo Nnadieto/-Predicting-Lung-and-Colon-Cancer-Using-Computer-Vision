@@ -1,2 +1,2 @@
 # Predicting-Lung-and-Colon-Cancer-Using-Computer-Vision
-The goal of this project is to develop a computer vision algorithm capable of accurately classifying lung and colon tissue images into categories such as lung adenocarcinoma, lung benign tissue, lung squamous cell carcinoma, colon benign tissue, and colon adenocarcinoma.
+This research project is aimed at leveraging the power of computer vision technology to enhance early detection and diagnosis of lung and colon cancer. This innovative initiative combines advanced image processing algorithms with machine learning techniques to analyze medical imaging data.
